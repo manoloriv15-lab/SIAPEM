@@ -1,0 +1,37 @@
+# SIAPEM
+## Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles
+
+### Descripción:
+Sistema desarrollado en Google Sheets, Google Drive, R Studio, QGIS y Power Bi Desktop para la gestión integral de establecimientos mercantiles en la Ciudad de México.
+
+### Sotwares:
+
+ - Google Sheets
+ - Google Drive
+ - R Studio
+ - QGIS
+ - Power Bi
+
+### Objetivos:
+
+ - Facilitar el conteo de los establecimientos mercantiles.
+ - Proporcionar estadísticos sobre los establecimientos mercantiles.
+ - Segmentar a los establecimientos mercantiles mediante una delimitación espacial específica.
+
+## Descarga de datos:
+
+ - Accede al SIAPEM, mediante el vínculo: https://siapem.cdmx.gob.mx/, posteriormente ingresa tu cuenta llave y contraseña.
+ - Haz click en el ícono con tu nombre y selecciona "Establecimientos". 
+ - Seleeciona la fecha de inicio y fin de consulta (**de preferencia, realizar su búsqueda un día a la vez ya que Excel solo permite la descarga de 1000 datos**).
+ - Descargar datos.
+
+## Base de datos:
+
+ - Ingresa a la base: "Bases" a tráves de: https://drive.google.com/drive/folders/14Lj75y5WZboUEzpBBei7_bmxzwp4N-3S .
+ - Trabaja sobre el documento ** Base de Establecimientos 20-26 **.
+ - Vacía todos los datos que hayas descargado del SIAPEM, correspondientes a establecimientos mercantiles en esta base de datos y cierra el documento.
+
+## Georreferenciar las ubicaciones de los ** "Territorios de Paz" **
+
+
+---
